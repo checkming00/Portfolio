@@ -9,3 +9,5 @@ The py script is for scrapying schools addresses and phone then save as OA2.xlsx
 Then I used internet resource to generate latitudes and longitudes for each school.
 
 The Tableau file is a map visualization displaying the locations of schools as well as availability.
+
+Tableau Public url: https://public.tableau.com/app/profile/zheming.xu/viz/Optional_Attendence/Map

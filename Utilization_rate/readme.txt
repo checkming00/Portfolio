@@ -12,3 +12,5 @@ transformation.py is for cleaning data and generate two files: payroll_cleaned.x
 
 Final.twbx is the Tableau file including a dashboard displaying different dimension analysis 
 and a story for presentation.
+
+Tableau Public url: https://public.tableau.com/app/profile/zheming.xu/viz/Final_16251012352610/Presentation
