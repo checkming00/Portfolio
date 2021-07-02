@@ -1,4 +1,4 @@
-### [Project 1: Build a subplot chart using Python comparing sales, profit and profit margin of different stores.](https://github.com/checkming00/Portfolio/tree/main/python_visualization)
+## [Project 1: Build a subplot chart using Python comparing sales, profit and profit margin of different stores.](https://github.com/checkming00/Portfolio/tree/main/python_visualization)
 
 **1. Clean and format data**
 
@@ -12,7 +12,7 @@
 
 
 
-### [Project 2: Generate a report and provide recommendations.](https://github.com/checkming00/Portfolio/tree/main/Utilization_rate)
+## [Project 2: Generate a report and provide recommendations.](https://github.com/checkming00/Portfolio/tree/main/Utilization_rate)
 
 **1. Clean and format data using Python**
 
@@ -25,7 +25,7 @@
 
 
 
-### [Project 3: Generate dashboards about Covid-19 infection, deaths and vaccinations](https://github.com/checkming00/Portfolio/tree/main/Covid)
+## [Project 3: Generate dashboards about Covid-19 infection, deaths and vaccinations](https://github.com/checkming00/Portfolio/tree/main/Covid)
 
 **1. Clean data using SQL (for covid_deaths)**
 
