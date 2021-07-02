@@ -1,5 +1,6 @@
 ## Generate dashboards about Covid-19 infection, deaths and vaccinations
 
+
 **1. raw data file: "covid_deaths.csv", "covid_vaccinations.csv"
 
 **2. "covid_deaths_SQL" folder contains all the related SQL scripts
