@@ -42,7 +42,7 @@ c_merged=c_merged[['Quantity','Sales Amount','Sales Amount (%)','Profit','Profit
 c_merged.to_excel('Sales_Profits_pm2nd.xlsx')
 
 x=range(len(df))
-
+'''
 fig=plt.figure()
 fig.set_size_inches(10,18)
 ax=fig.add_subplot(211)
@@ -122,4 +122,4 @@ print(df)
 print(c_merged)
 print('PM2ND Profit Margin: '+str(profit_margin_sum)+'%')
 plt.savefig('img.png')
-'''
+
