@@ -1,3 +1,5 @@
+## Generate a report and provide recommendations.
+
 It is a utilization rate analysis project
 
 raw data: payroll.xlsx
@@ -14,3 +16,5 @@ Final.twbx is the Tableau file including a dashboard displaying different dimens
 and a story for presentation.
 
 Tableau Public url: https://public.tableau.com/app/profile/zheming.xu/viz/Final_16251012352610/Presentation
+
+![](https://github.com/checkming00/Portfolio/blob/main/Utilization_rate/UR_Report.png)
