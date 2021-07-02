@@ -8,3 +8,11 @@
 
 
 ![](https://github.com/checkming00/Portfolio/blob/main/python_visualization/img.png)
+
+### [Project 2: Generate a report and provide recommendations.](https://github.com/checkming00/Portfolio/tree/main/Utilization_rate)
+
+**1. Clean and format data using Python**
+**2. Build charts and a dashboard using Tableau**
+**3. Generate a story report based on charts and dashboard**
+
+![](https://github.com/checkming00/Portfolio/blob/main/Utilization_rate/UR_Report.png)
