@@ -6,4 +6,4 @@
 
 ## [Project 4: Build a linear regression model to predict electricity prices](https://github.com/checkming00/Portfolio/blob/main/Machine%20Learning/electricity_price/electricity_prices.ipynb)
 
-
+## [Project 5: Build a logistic regression model to predict fraud detection](https://github.com/checkming00/Portfolio/blob/main/Machine%20Learning/Fraud%20detection/Fraud%20Detection.ipynb)
